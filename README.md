@@ -57,8 +57,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshal2390&show_icons=true&theme=radical" alt="GitHub Stats" width="47%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal2390&theme=radical" alt="GitHub Streak" width="47%"/>
+  <img src="https://streak-stats.demolab.com?user=harshal2390&theme=radical" alt="GitHub Streak" width="47%"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshal2390&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
